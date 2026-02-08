@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1767295762 source:c:\users\hp\documents\cpp projects\empms\main.cpp
-	<iostream>
-	<vector>
-	<string>
-	<limits>
-
